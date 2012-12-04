@@ -1,3 +1,6 @@
+### License
+No license is provided. This code cannot be shared, copied or used. 
+
 ###Where is the code?
 The browser-side code is inside directory <code> code</code>.
 
